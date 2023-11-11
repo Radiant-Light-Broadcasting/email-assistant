@@ -1,1 +1,3 @@
-# Python required files 
+pandas
+scikit-learn
+joblib
